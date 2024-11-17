@@ -3,7 +3,7 @@ Uses a websocket to connect to [Bluesky Jetstream](https://github.com/bluesky-so
 
 
 <video width="640" height="360" controls>
-  <source src="./docs/demo.mp4" type="video/mp4">
+  <source src="./docs/demo.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

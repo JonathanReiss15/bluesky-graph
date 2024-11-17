@@ -2,11 +2,7 @@
 Uses a websocket to connect to [Bluesky Jetstream](https://github.com/bluesky-social/jetstream) and render a graph of the network of posts
 
 
-<video width="640" height="360" controls>
-  <source src="./docs/demo.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/4f2e3f94-c06d-49f5-a267-bb052feb2290
 
 ## Running
 
@@ -14,3 +10,7 @@ Uses a websocket to connect to [Bluesky Jetstream](https://github.com/bluesky-so
 npm install
 npm run dev
 ```
+
+
+
+
